@@ -1,1 +1,1 @@
-# linear_and_binary
+# linear_search
